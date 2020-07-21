@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="17px" viewBox="0 0 19 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home---Design-(Finals)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-[Tablet]" transform="translate(-636.000000, -31.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Nav-/-[Tablet]-Primary-Nav">
+                <g id="icon" transform="translate(636.000000, 31.000000)">
+                    <path d="M16.7104876,10.2905748 L10.064271,16.6183525 C9.96932504,16.712797 9.77943313,16.8072415 9.58954123,16.8072415 C9.39964933,16.8072415 9.20975741,16.712797 9.11481146,16.6183525 L2.46859477,10.2905748 C2.37364881,10.1961303 0,8.11835257 0,5.56835258 C0,2.45168591 1.89891906,0.657241466 5.0321355,0.657241466 C6.93105454,0.657241466 8.6400817,2.07390813 9.49459527,2.92390813 C10.3491088,2.07390813 12.058136,0.657241466 13.957055,0.657241466 C17.0902715,0.657241466 18.9891906,2.54613035 18.9891906,5.56835258 C19.1790825,8.11835257 16.8054336,10.1961303 16.7104876,10.2905748" id="Heart"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
